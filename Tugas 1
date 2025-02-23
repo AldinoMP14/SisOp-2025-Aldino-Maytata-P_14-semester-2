@@ -1,0 +1,35 @@
+# TUGAS SISTEM OPERASI 
+
+---
+
+![Image](https://github.com/user-attachments/assets/838b068c-4d85-452a-aca6-352d279fbd3f)
+
+#### Dosen Pengampu :
+**Dr. Ferry Astika Saputra ST, M.Sc**
+
+#### Disusun oleh :
+**Aldino Maytata Prandila**
+**(3214521014)**
+D3-LA IT-A
+
+---
+
+1. - Bilangan biner adalah bilangan yang berbasis : **Dua(2)**
+   - Bilangan heksadesimal adalah bilangan yang berbasis : **enam belas(16)**
+
+---
+
+2. -	Konversikan bilangan desimal di bawah ini ke dalam bilangan biner
+a.	1234
+1234 : 2 = 617 sisa 0
+617 : 2 = 308 sisa 1
+308 : 2 = 154 sisa 0
+154 : 2 = 77 sisa 0
+77 : 2 = 38 sisa 1
+38 : 2 = 19 sisa 0
+19 : 2 = 9 sisa 1
+9 : 2 = 4 sisa 1
+4 : 2 = 2 sisa 0
+2 : 2 = 1 sisa 0
+1: 2 = 0 sisa 1
+Biner = 10011010010
