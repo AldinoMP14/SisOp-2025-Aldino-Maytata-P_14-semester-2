@@ -36,6 +36,8 @@ D3-LA IT-A
 
 <br>
 
+---
+
 2.	            $./flops64 $(nproc)
     Output:
 
@@ -54,6 +56,8 @@ Command ini untuk mengukur kinerja yang ada pada CPU dalam komputasi berbasis fl
     3. Maximum CPU Throughput: 4.35 Gigaflops, Kinerja maksimum CPU dalam menangani operasi floating-point. Maximum Single Core Throughput: 2.18 Gigaflops Kinerja maksimum per core dari CPU Anda.
    
 <br>
+
+---
 
 3.	        $./iops64 $(nproc)
     Output:
