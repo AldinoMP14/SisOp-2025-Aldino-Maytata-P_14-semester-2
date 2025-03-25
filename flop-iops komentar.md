@@ -13,3 +13,10 @@
 D3-LA IT-A
 
 ---
+<br>
+
+>TUGAS
+>- Memberikan komentar flop/iops
+> https://github.com/ferryastika/flops-iops
+>
+<br>
