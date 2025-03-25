@@ -47,11 +47,11 @@ D3-LA IT-A
     Komentar Saya:
 Command ini untuk mengukur kinerja yang ada pada CPU dalam komputasi berbasis floating-point (yg biasa digunakan pada AI).
 
-1. Benchmarking for 64 Bit Floating point operations per second, Pengujian ini mengukur seberapa cepat CPU menangani operasi floating-point 64-bit.
+    1. Benchmarking for 64 Bit Floating point operations per second, Pengujian ini mengukur seberapa cepat CPU menangani operasi floating-point 64-bit.
    
-2. Tr 1: 218,464,265 | Tr 2: 216,731,182 | FLOPS = 435,195,8078, Jumlah operasi floating-point yang dieksekusi dalam dua tahap (Tr 1 dan Tr 2), Total FLOPS = 4.35 GigaFLOPS (4,351,958,078 operasi per detik).
+    2. Tr 1: 218,464,265 | Tr 2: 216,731,182 | FLOPS = 435,195,8078, Jumlah operasi floating-point yang dieksekusi dalam dua tahap (Tr 1 dan Tr 2), Total FLOPS = 4.35 GigaFLOPS (4,351,958,078 operasi per detik).
  
-3. Maximum CPU Throughput: 4.35 Gigaflops, Kinerja maksimum CPU dalam menangani operasi floating-point. Maximum Single Core Throughput: 2.18 Gigaflops Kinerja maksimum per core dari CPU Anda.
+    3. Maximum CPU Throughput: 4.35 Gigaflops, Kinerja maksimum CPU dalam menangani operasi floating-point. Maximum Single Core Throughput: 2.18 Gigaflops Kinerja maksimum per core dari CPU Anda.
    
 <br>
 
@@ -66,12 +66,12 @@ Command ini untuk mengukur kinerja yang ada pada CPU dalam komputasi berbasis fl
     Komentar Saya:
 Command ini berguna untuk menilai performa CPU dalam pemrosesan data numerik berbasis bilangan bulat menangani tugas integer-heavy seperti kriptografi atau database.
     
-1. Tr 1: 1933910914 dan Tr 2: 1960510786 Menunjukkan jumlah operasi integer/INT 64bit yang dihitung dalam dua tahap pengujian
+    1. Tr 1: 1933910914 dan Tr 2: 1960510786 Menunjukkan jumlah operasi integer/INT 64bit yang dihitung dalam dua tahap pengujian
 
-2. IOPS = 3894421700 Total jumlah operasi INT 64bit yang dilakukan perdetik 3,8 milyar operasi perdetik (3,8 GigaIOPS)
+    2. IOPS = 3894421700 Total jumlah operasi INT 64bit yang dilakukan perdetik 3,8 milyar operasi perdetik (3,8 GigaIOPS)
 
-3. Maximum CPU Throughput:  3,894422 Gigaiops kapasitas maksimum CPU dalam menangani operasi integer 64bit secara keseluruhan menggunakan semua core yang tersedia
+    3. Maximum CPU Throughput:  3,894422 Gigaiops kapasitas maksimum CPU dalam menangani operasi integer 64bit secara keseluruhan menggunakan semua core yang tersedia
 
-4. Maximum Single Core Throughput: 1.960511 GigaIops. kapasitas maksimum satu core CPU dalam menangani operasi integer 64bit
+    4. Maximum Single Core Throughput: 1.960511 GigaIops. kapasitas maksimum satu core CPU dalam menangani operasi integer 64bit
    
 
