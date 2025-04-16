@@ -18,6 +18,8 @@ D3-LA IT-A
 
 - Gambar
 
+<img src="singlethread.png" width="600">
+
 - penjelasan
   
     Single Thread adalah model eksekusi yang ada dalam suatu cores di mana proses berjalan secara berurutan (sequential) dalam satu alur kerja(thread). konsep kerja single thread ini mirip seperti antrian yaitu jika satu tugas membutuhkan waktu lama, maka tugas-tugas lain harus menunggu hingga tugas tersebut selesai. Kelebihan dari Model ini adalah kesederhanaan dan mudah diimplementasikan serta jarang terjadi error, tetapi kurang efisien untuk aplikasi yang memerlukan banyak proses secara bersamaan.
@@ -25,6 +27,8 @@ D3-LA IT-A
 # Multi Thread
 
 - gambar
+
+<img src="multithread.png" width="600">
 
 - penjelasan
 
